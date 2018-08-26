@@ -5,7 +5,7 @@ Painless Docker book git repository.
 
 This book is a detailed guide to create, deploy, optimize,secure, trace, debug, log, orchestrate & monitor Docker, Docker clusters & modern Docker-based microservices from development to production.
 
-![Painless Docker Cover](http://painlessdocker.com/img/books.jpg "Painless Docker Cover")
+![Painless Docker Cover](https://painlessdocker.com/flatpage.png "Painless Docker Cover")
 
 Docker is a powerful tool, however learning how to use it the right way could take a long time. Engineers and developers are confused in front of the rapidly growing cloud and containers ecosystem, many of them have found some difficulties to enter the containers world.
 
